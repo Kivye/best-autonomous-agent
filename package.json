@@ -1,0 +1,1 @@
+{"dependencies":{"ethers":"^6.13.0"},"description":"Fully-autonomous AIProve agent by zkhiel: authenticates, enters every open bounty, submits momentum-based Brier forecasts, reports status.","name":"aiprove-autonomous-agent","private":true,"scripts":{"start":"node autonomous-agent.js"},"type":"module"}
